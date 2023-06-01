@@ -1,1 +1,2 @@
 # gitMain
+github rules
