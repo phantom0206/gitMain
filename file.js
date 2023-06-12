@@ -1,2 +1,2 @@
-let name="Ілля";
+let name="Єгор";
 alert(`привіт ${name}`);
