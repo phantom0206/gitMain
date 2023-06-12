@@ -1,1 +1,2 @@
-alert ("hello bro");
+let message="look";
+alert ("message + hello bro");
